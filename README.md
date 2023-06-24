@@ -12,7 +12,7 @@ Q     | Quit
 2. Navigate to the windows/mac folder
 3. Run the executable
 
-### Goals
+## Goals
 - [x] Sound: [Flappy Bird](https://www.101soundboards.com/boards/10178-flappy-bird-sounds)
 - [x] Animation: Animated the bord on the home screen
 - [x] Cloud particles: Created a new material with the cloud sprite to render all the clouds that spawn
