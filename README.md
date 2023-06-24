@@ -2,10 +2,10 @@
 #### Followed [Game Maker's Toolkit](https://www.youtube.com/watch?v=XtQMytORBmM) to build my first Unity game
 
 ## Controls
-|  Key  | Action |
-|-------|--------|
-| Space |  Jump  |
-|   Q   |  Quit |
+Key  | Action
+:---: | :---:
+Space | Jump
+Q     | Quit
 
 ## How To Install
 1. Clone/Fork repo
