@@ -19,7 +19,7 @@
 - [x] Game exit: Buttons and key commands to exit the game
 - [x] High score: Locally store high scores
 - [ ] Settings: Change volume, reset high score
-- [ ] Character customization
+- [ ] Customization: Character cosmetics and map themes
 - [ ] Different game mode (TBD)
 - [ ] Return to home
 - [ ] In game currency: Buy customizations
